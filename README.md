@@ -8,6 +8,6 @@ This is (if you ask me) a really cool speaker. They are made by a small company 
 
 Their philosophy is to take scandinavian simplicity and make a speaker that literaly blends in with the room, hence it is transparent. As you said you liked Stockholm when you were here, I thought I'd give you a bit of Stockholm to keep. I hope you like it!
 
-(If you want to read more about the speaker click here)[https://transpa.rent/about]
+[If you want to read more about the speaker click here](https://transpa.rent/about)
 
 # Merry Christmas Nick!
